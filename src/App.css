@@ -1,0 +1,14 @@
+.button {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  margin: 10px;
+}
+
+.anybutton {
+  top:11%;
+  left:55%;
+  width:100px;
+  height:40px;
+  position: absolute;
+  }
