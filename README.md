@@ -18,6 +18,5 @@ y finalmente
 
 ```bash
 npm run dev
--
 ```
 
